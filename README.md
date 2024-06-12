@@ -1,8 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<h1 align="center">👋 Hello, I'm Dooyeon Hwang!</h1>
+<div align="center">
+  <h2>👋 Hello, I'm Dooyeon Hwang</h2>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 
 
 
