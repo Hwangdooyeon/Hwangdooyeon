@@ -44,12 +44,12 @@
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="JPA" />
         <br>JPA
       </td>
+    </tr>
+    <tr>
       <td align="center" width="120" style="padding: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" />
         <br>Jenkins
       </td>
-    </tr>
-    <tr>
       <td align="center" width="120" style="padding: 10px;">
         <img src="https://www.vectorlogo.zone/logos/mybatis/mybatis-icon.svg" width="48" height="48" alt="MyBatis" />
         <br>MyBatis
