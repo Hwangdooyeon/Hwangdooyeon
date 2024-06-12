@@ -47,7 +47,7 @@
         <br>Jenkins
       </td>
       <td align="center" width="120" style="padding: 10px;">
-        <img src="https://www.vectorlogo.zone/logos/mybatis/mybatis-icon.svg" width="48" height="48" alt="MyBatis" />
+        <img src="https://github.com/mybatis/logo/blob/master/logo-bird-ninja.png?raw=true" width="48" height="48" alt="MyBatis" />
         <br>MyBatis
       </td>
     </tr>
