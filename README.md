@@ -49,5 +49,11 @@
         <br>Jenkins
       </td>
     </tr>
+    <tr>
+      <td align="center" width="120" style="padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/mybatis/mybatis-icon.svg" width="48" height="48" alt="MyBatis" />
+        <br>MyBatis
+      </td>
+    </tr>
   </table>
 </div>
