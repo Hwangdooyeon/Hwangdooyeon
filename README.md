@@ -1,6 +1,2 @@
-
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-
-
-# Hi there 👋
-😏
+Hello, I'm Dooyeon Hwang👋
+I'm a passionate developer constantly looking for new challenges and opportunities to grow.
